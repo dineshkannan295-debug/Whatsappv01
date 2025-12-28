@@ -1,0 +1,8 @@
+{
+  "name": "GeminiChat Pro - WhatsApp Clone",
+  "description": "A feature-rich real-time chat application built with React, Tailwind CSS, Supabase, and Gemini AI. Includes real-time messaging, media support, and AI-powered smart replies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
